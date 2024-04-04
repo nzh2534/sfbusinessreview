@@ -4,7 +4,7 @@ As my organization recently transferred to using Salesforce as their CRM, data f
 
 
 
-### This repo automates this process: 
+### This repo automates this process by: 
 ⚡️ Pulling data from Salesforce API for Objects with record type "Award" and their related objects (such as Budgets)
 
 ⚡️ Pulling data from the USAID Business forecast
