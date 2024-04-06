@@ -9,6 +9,6 @@ As my organization recently transferred to using Salesforce as their CRM, data f
 
 ⚡️ Pulling data from the USAID Business forecast
 
-⚡️ Using Object Oriented Programming to create objects related to timeframe
+📦 Using Object Oriented Programming to create objects related to timeframe
 
-⚡️ Posting data to Google Sheets using the objects and mapping data to the necessary cells using [R1C1 notation](https://developers.google.com/sheets/api/guides/concepts#expandable-2)
+📓 Posting data to Google Sheets using the objects and mapping data to the necessary cells using [R1C1 notation](https://developers.google.com/sheets/api/guides/concepts#expandable-2)
